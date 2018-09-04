@@ -1,6 +1,6 @@
 # IDD-Fa18-Lab1: Blink!
 
-**A lab report by John Q. Student**
+**A lab report by Tal Genkin**
 
 **Below is the lab report for the Lab 1 : Frankenlight**
 
